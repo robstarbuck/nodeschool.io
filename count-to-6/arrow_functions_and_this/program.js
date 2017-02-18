@@ -5,3 +5,4 @@ var foot = {
     }
 };
 foot.kick();
+
