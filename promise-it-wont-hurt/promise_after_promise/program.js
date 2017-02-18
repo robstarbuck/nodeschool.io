@@ -1,11 +1,4 @@
-//This task will allow you to demonstrate an understanding how to chain promises
-//together using then.
-//
-//Call first function in your program. first() will return a promise that
-//will be fulfilled with a secret value.
-//
-//Call second with the fulfilled value of first. Return the promise returned
-//by second in your onFulfilled callback.
-//
-//Finally, print the fulfilled value of that new promise with console.log.
-var first = Promise.resolve(secret)
+'use strict';
+// I had to look at the solution to this;
+// I understand it now but it wasn't clear to me that first and second were variables provided by the firing code
+first().then(second).then(console.log);

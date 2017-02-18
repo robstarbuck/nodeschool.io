@@ -1,0 +1,1198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Form",
+				"FormsModule\talias"
+			],
+			[
+				"hero",
+				"hero-form.component\tscript"
+			],
+			[
+				"re",
+				"resolve\tmethod"
+			],
+			[
+				"ge",
+				"getHeroes\tmethod"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"Her",
+				"HeroService\talias"
+			],
+			[
+				"F",
+				"Find\t*goquery.Selection ƒ"
+			],
+			[
+				"Print",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"func",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"Repla",
+				"ReplaceAllString\tstring ƒ"
+			],
+			[
+				"fun",
+				"func main\tfunc main {...} ʂ"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"iniln",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"set ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"set synt type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"abbre",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emmet abb",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"scrip",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"typescript",
+				"TypeScript: Navigate To Symbol"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"type",
+				"TypeScript: Format Block"
+			],
+			[
+				"mer",
+				"Emmet: Merge Lines"
+			],
+			[
+				"sy ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"packet inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bab",
+				"Preferences: Babel – Default"
+			],
+			[
+				"babel",
+				"Preferences: Babel – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"synta jav",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"expa",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"find",
+				"Finder: Open here"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn",
+				"Set Syntax: NAnt Build File"
+			],
+			[
+				"strip",
+				"StripHTML"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"perm",
+				"Permute Selections: Reverse"
+			],
+			[
+				"reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"merge",
+				"Emmet: Merge Lines"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 507.0,
+		"history":
+		[
+			"clear()",
+			"clear",
+			"view.run_command(\"typescript_format_document\")",
+			"            view.run_command(\"typescript_format_document\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/robertstarbuck/Sites/learning/nodeschool/promise-it-wont-hurt",
+		"/Users/robertstarbuck/Dropbox/dev/js"
+	],
+	"file_history":
+	[
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise4/app/PostDAO.js",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise3/app/AnnouncementDAO.js",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise3/app/app.js",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise3/app/AnnouncementListCtrl.js",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise3/app/index.html",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise2/README.md",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise2/app/app.js",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise2/app/BlogPostCtrl.js",
+		"/Users/robertstarbuck/Sites/tests/angular-1-exercises/exercise2/app/index.html",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/index.html",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/app/forms.css",
+		"/Users/robertstarbuck/Dropbox/dev/angular2/README.md",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/angular-forms.sublime-project",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/robertstarbuck/GDrive/jobs/applications/movegb 2017-02-07/README.md",
+		"/Users/robertstarbuck/GDrive/jobs/interview-answers.md",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/TypeScript-OnSave/TypeScript-OnSave.py",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/User/typescript.save.plugin.py",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/User/TypeScriptReact.sublime-settings",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/app/hero.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/app/hero-form.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/app/hero-form.component.html",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/app/app.module.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/app/app.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-forms/src/app/app.component.spec.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/dashboard.component.html",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/dashboard.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero-search.service.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero-detail.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero-search.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/app.module.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero.service.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/app.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/heroes.component.css",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/heroes.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/heroes.component.html",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero-detail.component.html",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero-search.component.css",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero-search.component.html",
+		"/Users/robertstarbuck/Dropbox/journal/2017/2017-02-13.md",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/README.md",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/hero.ts",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/app.component.js",
+		"/Users/robertstarbuck/Sites/angular2/angular-tour-of-heroes/src/app/mock-heroes.ts",
+		"/Users/robertstarbuck/Sites/angular2/quickstart/src/app/app.component.ts",
+		"/Users/robertstarbuck/Sites/angular2/quickstart/src/tsconfig.json",
+		"/Users/robertstarbuck/Sites/angular2/quickstart/src/app/app.component.js",
+		"/Users/robertstarbuck/Dropbox/dev/README.md",
+		"/Users/robertstarbuck/Dropbox/dev/mnemonics/Things to Remember/ForLoop.md",
+		"/Users/robertstarbuck/Dropbox/dev/mnemonics/Things to Remember/Functions.md",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/robertstarbuck/.jshintrc",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/robertstarbuck/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/robertstarbuck/Sites/polymer/polymer-first-elements/icon-toggle.html",
+		"/Users/robertstarbuck/Sites/polymer/polymer-first-elements/icon-toggle-finished/icon-toggle.html",
+		"/Users/robertstarbuck/Sites/polymer/polymer-first-elements/icon-toggle-finished/bower.json",
+		"/Users/robertstarbuck/Sites/print/print-cv-bookmark/layouts/cv/single.html",
+		"/Users/robertstarbuck/GDrive/jobs/applications/applications.md",
+		"/Users/robertstarbuck/GDrive/jobs/cover-letter/movegb-2017-02-07.md",
+		"/Users/robertstarbuck/Sites/learning/nodeschool/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/GDrive/jobs/cover-letter/polecat-2017-02-04.md",
+		"/Users/robertstarbuck/Sites/print/print-cv-bookmark/content/cv/cv-ui.md",
+		"/Users/robertstarbuck/GDrive/jobs/cover-letter/preoday-2017-02-04.md",
+		"/Users/robertstarbuck/Sites/print/print-cv-bookmark/content/cv/cv-ui.txt",
+		"/Users/robertstarbuck/Sites/learning/javascripting/README.md",
+		"/Users/robertstarbuck/Dropbox/recipes/veg/Roast potato, kale and sweet peas.md",
+		"/Users/robertstarbuck/Dropbox/recipes/veg/Red cabbage pasta and peas.md",
+		"/Users/robertstarbuck/Dropbox/journal/2017-02-06.md",
+		"/Users/robertstarbuck/Sites/wcv-obsolete/index.html",
+		"/Users/robertstarbuck/Sites/server-maintenance-webcv/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Desktop/blog/made-before-magpie.md",
+		"/Users/robertstarbuck/Sites/print/birds-of-blighty/public/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/print/birds-of-blighty/public/blog.md",
+		"/Users/robertstarbuck/Sites/bird-scrape/blog.md",
+		"/Users/robertstarbuck/Sites/print/birds-of-blighty/golang-scrape-public/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/print/birds-of-blighty/golang-scrape-public/README.md",
+		"/Users/robertstarbuck/Sites/print-hugo/config.toml",
+		"/Users/robertstarbuck/Sites/print/print-bird/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/print/print-bird/.gitignore",
+		"/Users/robertstarbuck/Sites/print-hugo/layouts/birds/single.html",
+		"/Users/robertstarbuck/Sites/bird-scrape/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/bird-scrape/index.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/data/birds.json",
+		"/Users/robertstarbuck/Sites/bird-scrape/.gitignore",
+		"/Users/robertstarbuck/Dropbox/journal/2017/2017-01-13.md",
+		"/Users/robertstarbuck/Sites/bird-scrape/getindex.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/getindex_test.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/getimages.go",
+		"/Users/robertstarbuck/Dropbox/system/Alfred.alfredpreferences/workflows/user.workflow.454EC16E-5316-440C-AE63-8AA2E2B8D276/blocmark/tag_regex_test.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/scrape_test.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/scrape.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/main.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/main_test.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/getbirds.go",
+		"/Users/robertstarbuck/Sites/bird-scrape/getbirds_test.go",
+		"/Users/robertstarbuck/Sites/print-hugo/content/bookmark/consonants.md",
+		"/Users/robertstarbuck/Sites/print-hugo/content/bookmark/vowels.md",
+		"/Users/robertstarbuck/Sites/print-hugo/static/css/bookmark/main.scss",
+		"/Users/robertstarbuck/Sites/print-hugo/.gitignore",
+		"/Users/robertstarbuck/Sites/print-hugo/content/git filter-branch --force --index-filter \\",
+		"/Users/robertstarbuck/Sites/print-hugo/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/print-hugo/static/css/bookmark/bplate/basic.scss",
+		"/Users/robertstarbuck/Sites/print-hugo/static/css/bookmark.scss",
+		"/Users/robertstarbuck/Sites/print-hugo/layouts/bookmark/single.html",
+		"/Users/robertstarbuck/Sites/boilerplate/bplate/.gitignore",
+		"/Users/robertstarbuck/Sites/print-hugo/static/css/bookmark/README.md",
+		"/Users/robertstarbuck/Sites/print-hugo/static/css/bookmark/bplate/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/boilerplate/bplate/.git/COMMIT_EDITMSG",
+		"/Users/robertstarbuck/Sites/print-hugo/layouts/_default/single.html",
+		"/Users/robertstarbuck/Sites/print-hugo/layouts/_default/baseof.html",
+		"/Users/robertstarbuck/Sites/print-hugo/static/css/cv.scss",
+		"/Users/robertstarbuck/Sites/print-hugo/layouts/_default/bookmark/single.html",
+		"/Users/robertstarbuck/Sites/print-hugo/themes/hugo_default/static/css/cv.scss",
+		"/Users/robertstarbuck/Sites/print-hugo/content/vowels.md",
+		"/Users/robertstarbuck/Sites/print-hugo/themes/hugo_default/layouts/_default/list.html",
+		"/Users/robertstarbuck/Sites/print-hugo/themes/hugo_default/layouts/_default/summary.html",
+		"/Users/robertstarbuck/Sites/print-hugo/themes/hugo_default/layouts/_default/baseof.html",
+		"/Users/robertstarbuck/Sites/print-hugo/themes/hugo_default/layouts/_default/single.html",
+		"/Users/robertstarbuck/Sites/print-hugo/init.bash"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"**ts",
+			"**hbs",
+			"**scss",
+			"**hbs",
+			"**",
+			"**scss",
+			"**hbs",
+			"**scss",
+			"**hbs",
+			"**",
+			"**scss",
+			"**hbs",
+			"**scss",
+			"**hbs",
+			"**scss",
+			"**hbs",
+			"**scss",
+			"**hbs",
+			"**scss",
+			"**hbs",
+			"",
+			"**scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"author",
+			"AnnouncementListCtrl",
+			"th",
+			"bind=",
+			"value",
+			"data",
+			"dataset",
+			"get",
+			"PostDAO",
+			"get",
+			"data",
+			"result",
+			"<th>",
+			"Jack",
+			"posts",
+			"dataset",
+			"value",
+			"key",
+			"postFnc",
+			"blogpost",
+			"Page",
+			"inject",
+			"name",
+			"json",
+			"newHero",
+			"styles",
+			"id",
+			"model",
+			"todo",
+			"Hello",
+			"[",
+			"#",
+			"false",
+			"type",
+			"ts",
+			"[ ]",
+			"- ",
+			"social",
+			"## ",
+			"^\\d*\\.",
+			".##",
+			"## ",
+			"?",
+			"^\\d*\\.",
+			"component",
+			"template",
+			"Service",
+			"AppModule",
+			" - ",
+			"Templates",
+			"HeroSearchComponent",
+			"OnInit",
+			"//",
+			" - ",
+			"from",
+			"getHeroes",
+			"getHeroesSlowly",
+			";",
+			"ngOnInit",
+			"selectedHero",
+			">\n",
+			"selectedHero",
+			"hero.",
+			"  ",
+			"Angular",
+			"name",
+			"config",
+			"asi",
+			"link",
+			"& ",
+			"CouchDB",
+			"### ",
+			"_",
+			"(https?://[\\w|\\.\\/]*)\\)",
+			"## [",
+			"](",
+			"^# ",
+			"- ",
+			"coaltit",
+			"\n",
+			"@3x",
+			"@1x",
+			"/Users/robertstarbuck/Sites/print/birds-of-blighty/public/blog/images/screen/resize/",
+			"page-",
+			"initial",
+			"Selector",
+			"CSS",
+			"SCSS",
+			"page-break",
+			"SCSS",
+			"data",
+			"SASS",
+			"Golang",
+			"Getting",
+			"omitempty",
+			"goquery",
+			"here",
+			"todo",
+			"golang-scrape-public/",
+			"urlroot",
+			"root",
+			"http://www.rspb.org.uk/",
+			"Bird_addresses",
+			"to",
+			"Indesign",
+			"d",
+			"Indesign",
+			"data",
+			"ImageSrcs",
+			"Url",
+			"SourceUrl",
+			"url",
+			"birds",
+			"post",
+			"birds",
+			"post",
+			"location",
+			"Url",
+			"id",
+			"Id",
+			"Url",
+			"Initial",
+			"Id",
+			"location",
+			"container",
+			"Name",
+			"name",
+			"Name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"```",
+			"```js",
+			"-button-",
+			".-",
+			".--",
+			".-",
+			"\\n\\n",
+			"\\n",
+			"",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "promise-it-wont-heart.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hefo",
+				"angular-forms/src/app/hero-form.component.ts"
+			],
+			[
+				"ind",
+				"angular-forms/src/index.html"
+			],
+			[
+				"inde",
+				"angular-forms/src/index.html"
+			],
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/typescript.save.plugin.py"
+			],
+			[
+				"service",
+				"angular-tour-of-heroes/src/app/hero.service.ts"
+			],
+			[
+				"comp",
+				"angular-tour-of-heroes/src/app/heroes.component.ts"
+			],
+			[
+				"herocom",
+				"angular-tour-of-heroes/src/app/heroes.component.ts"
+			],
+			[
+				"modu",
+				"angular-tour-of-heroes/src/app/app-routing.module.ts"
+			],
+			[
+				"appmo",
+				"angular-tour-of-heroes/src/app/app.module.ts"
+			],
+			[
+				"hsco",
+				"angular-tour-of-heroes/src/app/hero-search.component.ts"
+			],
+			[
+				"herser",
+				"angular-tour-of-heroes/src/app/hero.service.ts"
+			],
+			[
+				"apmo",
+				"angular-tour-of-heroes/src/app/app.module.ts"
+			],
+			[
+				"hread",
+				"angular-tour-of-heroes/README.md"
+			],
+			[
+				"hcocss",
+				"angular-tour-of-heroes/src/app/heroes.component.css"
+			],
+			[
+				"hersert",
+				"angular-tour-of-heroes/src/app/hero.service.ts"
+			],
+			[
+				"hecots",
+				"angular-tour-of-heroes/src/app/heroes.component.ts"
+			],
+			[
+				"hercom",
+				"angular-tour-of-heroes/src/app/heroes.component.html"
+			],
+			[
+				"herdet",
+				"angular-tour-of-heroes/src/app/hero-detail.component.html"
+			],
+			[
+				"her",
+				"angular-tour-of-heroes/src/app/heroes.component.html"
+			],
+			[
+				"heroser",
+				"angular-tour-of-heroes/src/app/hero.service.ts"
+			],
+			[
+				"appcom",
+				"src/app/app.component.js"
+			],
+			[
+				"image",
+				"images.go"
+			],
+			[
+				"bi",
+				"data/birds.json"
+			],
+			[
+				"con",
+				"content.go"
+			],
+			[
+				"main",
+				"main_test.go"
+			],
+			[
+				"vowe",
+				"content/bookmark/vowels.md"
+			],
+			[
+				"bmksing",
+				"layouts/bookmark/single.html"
+			],
+			[
+				"book",
+				"layouts/bookmark/single.html"
+			],
+			[
+				"sing",
+				"layouts/_default/single.html"
+			],
+			[
+				"body",
+				"magpie/assets/css/body.scss"
+			],
+			[
+				"form",
+				"magpie/assets/css/form.scss"
+			],
+			[
+				"tab",
+				"magpie/partials/tabs.hbs"
+			],
+			[
+				"scrp",
+				"magpie/partials/scripts.hbs"
+			],
+			[
+				"pag",
+				"magpie/partials/pagination.hbs"
+			],
+			[
+				"navig",
+				"magpie/partials/navigation.hbs"
+			],
+			[
+				"footer",
+				"magpie/partials/footer.hbs"
+			],
+			[
+				"ids",
+				"magpie/assets/css/ids.scss"
+			],
+			[
+				"pris",
+				"magpie/assets/css/prism-themes/prism-xonokai-ct.scss"
+			],
+			[
+				"scr",
+				"magpie/partials/scripts.hbs"
+			],
+			[
+				"flow",
+				"magpie/assets/css/flow.scss"
+			],
+			[
+				"id",
+				"magpie/assets/css/ids.scss"
+			],
+			[
+				"head",
+				"magpie/partials/header.hbs"
+			],
+			[
+				"scrip",
+				"magpie/partials/scripts.hbs"
+			],
+			[
+				"grp",
+				"magpie/assets/css/elements/group.scss"
+			],
+			[
+				"foot",
+				"magpie/partials/footer.hbs"
+			],
+			[
+				"cvscs",
+				"themes/hugo_default/static/css/cv.scss"
+			],
+			[
+				"css",
+				"themes/hugo_default/static/css/cv.css"
+			],
+			[
+				"base",
+				"themes/hugo_default/layouts/_default/baseof.html"
+			],
+			[
+				"summ",
+				"themes/hugo_default/layouts/_default/summary.html"
+			],
+			[
+				"ig",
+				"magpie-blog-alpine-ghost/.gitignore"
+			],
+			[
+				"xml",
+				"magpie/assets/lib/jquery-ui-1.12.1.custom/index.html"
+			],
+			[
+				"art",
+				"magpie/partials/article.hbs"
+			],
+			[
+				"loop",
+				"magpie/partials/loop.hbs"
+			],
+			[
+				"read",
+				"magpie-blog-alpine-ghost/README.md"
+			],
+			[
+				"bowr",
+				"magpie/bower.json"
+			],
+			[
+				"m",
+				"magpie/assets/css/main.scss"
+			],
+			[
+				"taghe",
+				"magpie/partials/tag-menu.hbs"
+			],
+			[
+				"lo",
+				"magpie/partials/loop.hbs"
+			],
+			[
+				"pabl",
+				"magpie/page-blog.hbs"
+			],
+			[
+				"tag",
+				"magpie/tag.hbs"
+			],
+			[
+				"loo",
+				"magpie/partials/loop.hbs"
+			],
+			[
+				"work",
+				"magpie/tag-work.hbs"
+			],
+			[
+				"grop",
+				"magpie/assets/css/elements/group.scss"
+			],
+			[
+				"tabs",
+				"magpie/partials/tabs.hbs"
+			],
+			[
+				"bower",
+				"magpie/bower.json"
+			],
+			[
+				"artic",
+				"magpie/partials/article.hbs"
+			],
+			[
+				"col",
+				"magpie/assets/css/color.scss"
+			],
+			[
+				"foo",
+				"magpie/partials/footer.hbs"
+			],
+			[
+				"navi",
+				"magpie/partials/navigation.hbs"
+			],
+			[
+				"pagemes",
+				"magpie/page-message.hbs"
+			],
+			[
+				"home",
+				"magpie/home.hbs"
+			],
+			[
+				"page",
+				"magpie/page-information.hbs"
+			],
+			[
+				"page-mes",
+				"magpie/page-message.hbs"
+			],
+			[
+				"conta",
+				"magpie/assets/js/contact.js"
+			],
+			[
+				"cont",
+				"magpie/assets/js/contact.js"
+			],
+			[
+				"contac",
+				"magpie/assets/js/contact.js"
+			],
+			[
+				"sc",
+				"magpie/partials/scripts.hbs"
+			],
+			[
+				"in",
+				"magpie/page-information.hbs"
+			],
+			[
+				"for",
+				"magpie/assets/css/form.scss"
+			],
+			[
+				"header",
+				"magpie/partials/header.hbs"
+			],
+			[
+				"he",
+				"magpie/partials/header.hbs"
+			],
+			[
+				"grou",
+				"magpie/assets/css/elements/group.scss"
+			],
+			[
+				"ign",
+				"magpie-blog-alpine-ghost/.gitignore"
+			],
+			[
+				"infor",
+				"magpie/page-information.hbs"
+			],
+			[
+				"ta",
+				"magpie/tag.hbs"
+			],
+			[
+				"prism-xonokai-ct.scss",
+				"magpie/assets/css/prism-themes/prism-xonokai-ct.scss"
+			],
+			[
+				"style",
+				"magpie/page-style-sheet.hbs"
+			],
+			[
+				"post",
+				"magpie/post.hbs"
+			],
+			[
+				"hoe",
+				"magpie/home.hbs"
+			],
+			[
+				"nav",
+				"magpie/partials/navigation.hbs"
+			],
+			[
+				"def",
+				"magpie/default.hbs"
+			],
+			[
+				"informat",
+				"magpie/page-information.hbs"
+			],
+			[
+				"arti",
+				"magpie/partials/article.hbs"
+			],
+			[
+				"group",
+				"magpie/assets/css/elements/group.scss"
+			],
+			[
+				"color",
+				"magpie/assets/css/color.scss"
+			],
+			[
+				"rs",
+				"magpie/assets/css/rs.reset.scss"
+			],
+			[
+				"rs.",
+				"magpie/assets/css/rs.reset.scss"
+			],
+			[
+				"flo",
+				"magpie/assets/css/flow.scss"
+			],
+			[
+				"fl",
+				"magpie/assets/css/flow.scss"
+			],
+			[
+				"reset",
+				"magpie/assets/css/rs.reset.scss"
+			],
+			[
+				"pagin",
+				"magpie/partials/pagination.hbs"
+			],
+			[
+				"medida",
+				"magpie/assets/css/media/widths.scss"
+			],
+			[
+				"foter",
+				"magpie/partials/footer-header.hbs"
+			],
+			[
+				"tags",
+				"magpie/partials/pagination.hbs"
+			],
+			[
+				"defa",
+				"magpie/default.hbs"
+			],
+			[
+				"docker",
+				"magpie-blog-alpine-ghost/docker-compose.yml"
+			],
+			[
+				"posts",
+				"magpie/post.hbs"
+			],
+			[
+				"scss",
+				"magpie/assets/css/flow.scss"
+			],
+			[
+				"todo",
+				"upstream.io/TODO.md"
+			],
+			[
+				"too",
+				"TODO.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
